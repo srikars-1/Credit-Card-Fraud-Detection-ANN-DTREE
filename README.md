@@ -5,7 +5,7 @@
   
 ## Aim : Predicting if the Credit Card Transaction is fraud using data from CSV file.
 
-## Method of approach used : DECISION TREE CLASSIFICATION and ARTIFICIAL NEURAL NETWORK
+## Method of approach used : DECISION TREE CLASSIFICATION, ARTIFICIAL NEURAL NETWORK
 
   - STEP #1: IMPORTING DATA
   - STEP #2: DATA PREPROCESSING
